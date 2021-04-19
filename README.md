@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vdwenner (Vaughn Wenner)
-- 👀 I’m interested in: Learning different kind of front-end and back-end programming languages.
+- 👀 I’m interested in: Becoming a junior software developer, where I can continue to grow my skill-set in programming.
 - 🌱 I’m currently learning: Flask and Django3
 - 💞️ I’m looking to collaborate on: an application that utilizes flask and SQL to further my understanding of both.
 - 📫 How to reach me: you can reach me at vdwenner@gmail.com, or you can message me on linkedin. My linked in link is: https://www.linkedin.com/in/vaughn-wenner-it/
