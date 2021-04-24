@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vdwenner (Vaughn Wenner)
 - 👀 I’m interested in: Becoming a junior software developer, where I can continue to grow my skill-set in programming.
-- 🌱 I’m currently learning: Flask, Django3, CSS and Javascript. I am currently using Python to write a CRUD application utilizing the Flask.
+- 🌱 I’m currently learning: Flask, Django3, CSS and Javascript. I am currently using Python to write a CRUD application utilizing Flask.
 - 💞️ I’m looking to collaborate on: an application that utilizes Flask, Django3 or SQL to further my understanding of all three.
 - 📫 How to reach me: <a href="mailto:vdwenner@gmail.com">Email me</a> or message me on <a href="https://www.linkedin.com/in/vaughn-wenner-it/" target="_blank">LinkedIn</a> 
 
