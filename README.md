@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vdwenner (Vaughn Wenner)
-- 👀 I’m interested in: Becoming a junior software developer, where I can continue to grow my skill-set in programming.
-- 🌱 I’m currently learning: C++, Django, CSS and Javascript
-- 💞️ I’m looking to collaborate on: A machine learning project based out of PyTorch
+- 👀 I’m interested in: Becoming a junior software developer, where I can continue to grow my skill-set in programming alongside industry professionals.
+- 🌱 I’m currently learning: Java, C++, Django, CSS and Javascript
+- 💞️ I’m looking to collaborate on: A project based on Java
 - 📫 How to reach me: <a href="mailto:vdwenner@gmail.com">Email me</a> or message me on <a href="https://www.linkedin.com/in/vaughn-wenner-it/" target="_blank">LinkedIn</a> 
 
 <!---
